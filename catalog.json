@@ -837,6 +837,16 @@
       ],
       "onSaleAt" : null,
       "operator" : "Mountain Collective",
+      "priceRules" : [
+        {
+          "kind" : "pass",
+          "label" : "Adult Mountain Collective Pass",
+          "maxCents" : 200000,
+          "minCents" : 30000,
+          "pattern" : "data-pricenum=\"(\\d+(?:\\.\\d+)?)\"[^>]*data-name=\"Mountain Collective Pass - Adult 26\/27\"",
+          "url" : "https:\/\/store.mountaincollective.com\/Ecomm\/Listings\/MerchandiseTiles\/12583794?supplierId=12586927&productCategoryId=156&language=en-us&productSuperCategoryId=17"
+        }
+      ],
       "resorts" : [
         {
           "access" : "2 days",
@@ -985,9 +995,15 @@
           "label" : "Current price",
           "priceCents" : 72900,
           "sourceURL" : "https:\/\/mountaincollective.com\/",
-          "validFrom" : null,
-          "validUntil" : null,
+          "validUntil" : "2026-11-23",
           "verifiedOn" : "2026-10-29"
+        },
+        {
+          "label" : "Observed price",
+          "priceCents" : 75900,
+          "sourceURL" : "https:\/\/store.mountaincollective.com\/Ecomm\/Listings\/MerchandiseTiles\/12583794?supplierId=12586927&productCategoryId=156&language=en-us&productSuperCategoryId=17",
+          "validFrom" : "2026-11-24",
+          "verifiedOn" : "2026-11-24"
         }
       ],
       "timeZone" : "America\/Denver"
@@ -1067,5 +1083,5 @@
 
   ],
   "updatedAt" : "2026-11-24",
-  "version" : 6
+  "version" : 7
 }
