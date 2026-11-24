@@ -17,8 +17,11 @@ jobs:
         id: run
         run: |
           set +e
-          swift tools/catalog-update.swift catalog.json | tee update.log
-          echo "code=${PIPESTATUS[0]}" >> "$GITHUB_OUTPUT"
+          swift tools/catalog-update.swift catalog.json > update.log 2>&1
+          code=$?
+          cat update.log
+          echo "code=$code" >> "$GITHUB_OUTPUT"
+          if [ "$code" != "0" ] && [ "$code" != "3" ]; then exit "$code"; fi
       - name: Commit when prices changed
         if: steps.run.outputs.code == '3'
         run: |
