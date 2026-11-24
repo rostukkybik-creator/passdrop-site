@@ -1,0 +1,1038 @@
+{
+  "version": 4,
+  "updatedAt": "2026-10-30",
+  "passes": [
+    {
+      "slug": "epic",
+      "name": "Epic Pass",
+      "operator": "Vail Resorts",
+      "season": "2026-27",
+      "currency": "USD",
+      "status": "on-sale",
+      "homepage": "https://www.epicpass.com/",
+      "buyURL": "https://www.epicpass.com/passes/epic-pass.aspx",
+      "timeZone": "America/Denver",
+      "salesEnd": "2026-12-06",
+      "onSaleAt": null,
+      "announcedPromo": null,
+      "tiers": [
+        {
+          "label": "Spring early-bird",
+          "priceCents": 108900,
+          "validFrom": null,
+          "validUntil": "2026-05-25",
+          "sourceURL": "https://www.stocktitan.net/news/MTN/summer-now-winter-later-four-reasons-to-get-an-epic-pass-by-may-uiqsof59q7wk.html",
+          "verifiedOn": "2026-10-29"
+        },
+        {
+          "label": "Summer price",
+          "priceCents": 114500,
+          "validFrom": "2026-05-26",
+          "validUntil": "2026-10-07",
+          "sourceURL": "https://unofficialnetworks.com/2026/09/29/the-ski-pass-deadlines-that-actually-matter-in-the-next-10-days/",
+          "verifiedOn": "2026-10-29"
+        },
+        {
+          "label": "Autumn price",
+          "priceCents": 116900,
+          "validFrom": "2026-10-08",
+          "validUntil": "2026-11-15",
+          "sourceURL": "https://www.epicorikon.com/news/epic-pass-prices-increasing-october-2026",
+          "verifiedOn": "2026-10-29"
+        }
+      ],
+      "notes": [
+        "Vail announces only the next deadline. The November step date is the one reported by ski media and is re-verified on epicpass.com before an alert.",
+        "Vail has granted 24 to 30 hour grace periods after past deadlines.",
+        "Resort list: Vail-operated mountains are unlimited on the full Epic Pass (Wikipedia, Jun 2026; OnTheSnow buyer's guide, Sep 10, 2026). Partners: Telluride 7 days, the six Resorts of the Canadian Rockies 7 days combined, Hakuba Valley and Rusutsu 5 days (OnTheSnow and Undercover Tourist guides). The 26 European partner resorts carry lodging restrictions and are not listed by name; Sun Valley and Snowbasin are not confirmed on the 2026-27 Epic Pass and are left out."
+      ],
+      "resorts": [
+        {
+          "name": "Vail",
+          "region": "colorado-rockies",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Beaver Creek",
+          "region": "colorado-rockies",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Breckenridge",
+          "region": "colorado-rockies",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Keystone",
+          "region": "colorado-rockies",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Crested Butte",
+          "region": "colorado-rockies",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Park City",
+          "region": "utah-wasatch",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Heavenly",
+          "region": "lake-tahoe",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Northstar",
+          "region": "lake-tahoe",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Kirkwood",
+          "region": "lake-tahoe",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Stevens Pass",
+          "region": "pacific-northwest",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Whistler Blackcomb",
+          "region": "canada-west",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Stowe",
+          "region": "new-england",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Okemo",
+          "region": "new-england",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Mount Snow",
+          "region": "new-england",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Attitash",
+          "region": "new-england",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Wildcat",
+          "region": "new-england",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Mount Sunapee",
+          "region": "new-england",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Crotched Mountain",
+          "region": "new-england",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Hunter Mountain",
+          "region": "mid-atlantic",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Liberty Mountain",
+          "region": "mid-atlantic",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Roundtop",
+          "region": "mid-atlantic",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Whitetail",
+          "region": "mid-atlantic",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Jack Frost",
+          "region": "mid-atlantic",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Big Boulder",
+          "region": "mid-atlantic",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Seven Springs",
+          "region": "mid-atlantic",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Hidden Valley (PA)",
+          "region": "mid-atlantic",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Laurel Mountain",
+          "region": "mid-atlantic",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Afton Alps",
+          "region": "midwest",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Mount Brighton",
+          "region": "midwest",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Wilmot Mountain",
+          "region": "midwest",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Paoli Peaks",
+          "region": "midwest",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Alpine Valley (OH)",
+          "region": "midwest",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Boston Mills-Brandywine",
+          "region": "midwest",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Mad River Mountain",
+          "region": "midwest",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Hidden Valley (MO)",
+          "region": "midwest",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Snow Creek",
+          "region": "midwest",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Perisher",
+          "region": "international",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Falls Creek",
+          "region": "international",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Hotham",
+          "region": "international",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Andermatt-Sedrun",
+          "region": "international",
+          "access": "Check pass page"
+        },
+        {
+          "name": "Crans-Montana",
+          "region": "international",
+          "access": "Check pass page"
+        },
+        {
+          "name": "Telluride",
+          "region": "colorado-rockies",
+          "access": "7 days"
+        },
+        {
+          "name": "Fernie Alpine",
+          "region": "canada-west",
+          "access": "7 days (RCR combined)"
+        },
+        {
+          "name": "Kicking Horse",
+          "region": "canada-west",
+          "access": "7 days (RCR combined)"
+        },
+        {
+          "name": "Kimberley Alpine",
+          "region": "canada-west",
+          "access": "7 days (RCR combined)"
+        },
+        {
+          "name": "Nakiska",
+          "region": "canada-west",
+          "access": "7 days (RCR combined)"
+        },
+        {
+          "name": "Mont-Sainte-Anne",
+          "region": "canada-east",
+          "access": "7 days (RCR combined)"
+        },
+        {
+          "name": "Stoneham",
+          "region": "canada-east",
+          "access": "7 days (RCR combined)"
+        },
+        {
+          "name": "Hakuba Valley",
+          "region": "international",
+          "access": "5 days"
+        },
+        {
+          "name": "Rusutsu",
+          "region": "international",
+          "access": "5 days"
+        }
+      ],
+      "resortsSourceURL": "https://www.onthesnow.com/news/epic-pass-buyers-guide/",
+      "resortsVerifiedOn": "2026-10-29"
+    },
+    {
+      "slug": "ikon",
+      "name": "Ikon Pass",
+      "operator": "Alterra Mountain Company",
+      "season": "2026-27",
+      "currency": "USD",
+      "status": "on-sale",
+      "homepage": "https://www.ikonpass.com/",
+      "buyURL": "https://www.ikonpass.com/en/shop-passes/ikon-pass",
+      "timeZone": "America/Denver",
+      "salesEnd": null,
+      "onSaleAt": null,
+      "announcedPromo": null,
+      "tiers": [
+        {
+          "label": "Spring early-bird",
+          "priceCents": 139900,
+          "validFrom": null,
+          "validUntil": "2026-04-16",
+          "sourceURL": "https://snowbrains.com/april-16-ikon-pass-2026-27/",
+          "verifiedOn": "2026-10-29"
+        },
+        {
+          "label": "Summer price",
+          "priceCents": 144900,
+          "validFrom": "2026-04-17",
+          "validUntil": "2026-10-08",
+          "sourceURL": "https://unofficialnetworks.com/2026/09/29/the-ski-pass-deadlines-that-actually-matter-in-the-next-10-days/",
+          "verifiedOn": "2026-10-29"
+        },
+        {
+          "label": "Autumn price",
+          "priceCents": 152900,
+          "validFrom": "2026-10-09",
+          "validUntil": null,
+          "sourceURL": "https://www.epicorikon.com/news/epic-pass-prices-increasing-october-2026",
+          "verifiedOn": "2026-10-29"
+        }
+      ],
+      "notes": [
+        "The spring deadline was extended by three days in 2026. Extensions are announced by email and ski media.",
+        "No further step has been announced after October 8; the verdict says 'final price' until Alterra says otherwise.",
+        "Resort list and day limits read from ikonpass.com (destinations and shop pages) on Oct 29, 2026: 18 unlimited destinations, 7 days at the rest."
+      ],
+      "resorts": [
+        {
+          "name": "Winter Park",
+          "region": "colorado-rockies",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Steamboat",
+          "region": "colorado-rockies",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Copper Mountain",
+          "region": "colorado-rockies",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Eldora",
+          "region": "colorado-rockies",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Arapahoe Basin",
+          "region": "colorado-rockies",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Aspen Snowmass",
+          "region": "colorado-rockies",
+          "access": "7 days"
+        },
+        {
+          "name": "Solitude",
+          "region": "utah-wasatch",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Deer Valley",
+          "region": "utah-wasatch",
+          "access": "7 days"
+        },
+        {
+          "name": "Alta",
+          "region": "utah-wasatch",
+          "access": "7 days"
+        },
+        {
+          "name": "Snowbird",
+          "region": "utah-wasatch",
+          "access": "7 days"
+        },
+        {
+          "name": "Brighton",
+          "region": "utah-wasatch",
+          "access": "7 days"
+        },
+        {
+          "name": "Snowbasin",
+          "region": "utah-wasatch",
+          "access": "7 days"
+        },
+        {
+          "name": "Palisades Tahoe",
+          "region": "lake-tahoe",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Sierra-at-Tahoe",
+          "region": "lake-tahoe",
+          "access": "7 days"
+        },
+        {
+          "name": "Mammoth Mountain",
+          "region": "california-south",
+          "access": "Unlimited"
+        },
+        {
+          "name": "June Mountain",
+          "region": "california-south",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Big Bear Mountain Resort",
+          "region": "california-south",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Snow Valley",
+          "region": "california-south",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Crystal Mountain",
+          "region": "pacific-northwest",
+          "access": "Unlimited"
+        },
+        {
+          "name": "The Summit at Snoqualmie",
+          "region": "pacific-northwest",
+          "access": "7 days"
+        },
+        {
+          "name": "Mt. Bachelor",
+          "region": "pacific-northwest",
+          "access": "7 days"
+        },
+        {
+          "name": "Jackson Hole",
+          "region": "northern-rockies",
+          "access": "7 days"
+        },
+        {
+          "name": "Big Sky",
+          "region": "northern-rockies",
+          "access": "7 days"
+        },
+        {
+          "name": "Sun Valley",
+          "region": "northern-rockies",
+          "access": "7 days"
+        },
+        {
+          "name": "Schweitzer",
+          "region": "northern-rockies",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Alyeska",
+          "region": "northern-rockies",
+          "access": "7 days"
+        },
+        {
+          "name": "Taos Ski Valley",
+          "region": "southwest",
+          "access": "7 days"
+        },
+        {
+          "name": "Stratton",
+          "region": "new-england",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Sugarbush",
+          "region": "new-england",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Killington-Pico",
+          "region": "new-england",
+          "access": "7 days"
+        },
+        {
+          "name": "Loon Mountain",
+          "region": "new-england",
+          "access": "7 days"
+        },
+        {
+          "name": "Sunday River",
+          "region": "new-england",
+          "access": "7 days"
+        },
+        {
+          "name": "Sugarloaf",
+          "region": "new-england",
+          "access": "7 days"
+        },
+        {
+          "name": "Snowshoe",
+          "region": "mid-atlantic",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Blue Mountain (PA)",
+          "region": "mid-atlantic",
+          "access": "7 days"
+        },
+        {
+          "name": "Camelback",
+          "region": "mid-atlantic",
+          "access": "7 days"
+        },
+        {
+          "name": "Lutsen Mountains",
+          "region": "midwest",
+          "access": "7 days"
+        },
+        {
+          "name": "Snowriver",
+          "region": "midwest",
+          "access": "7 days"
+        },
+        {
+          "name": "The Highlands",
+          "region": "midwest",
+          "access": "7 days"
+        },
+        {
+          "name": "Boyne Mountain",
+          "region": "midwest",
+          "access": "7 days"
+        },
+        {
+          "name": "Granite Peak",
+          "region": "midwest",
+          "access": "7 days"
+        },
+        {
+          "name": "Revelstoke",
+          "region": "canada-west",
+          "access": "7 days"
+        },
+        {
+          "name": "Sun Peaks",
+          "region": "canada-west",
+          "access": "7 days"
+        },
+        {
+          "name": "SkiBig3 (Banff)",
+          "region": "canada-west",
+          "access": "7 days"
+        },
+        {
+          "name": "Cypress Mountain",
+          "region": "canada-west",
+          "access": "7 days"
+        },
+        {
+          "name": "RED Mountain",
+          "region": "canada-west",
+          "access": "7 days"
+        },
+        {
+          "name": "SilverStar",
+          "region": "canada-west",
+          "access": "7 days"
+        },
+        {
+          "name": "Panorama",
+          "region": "canada-west",
+          "access": "7 days"
+        },
+        {
+          "name": "Tremblant",
+          "region": "canada-east",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Blue Mountain (ON)",
+          "region": "canada-east",
+          "access": "Unlimited"
+        },
+        {
+          "name": "Le Massif de Charlevoix",
+          "region": "canada-east",
+          "access": "7 days"
+        },
+        {
+          "name": "Valle d'Aosta",
+          "region": "international",
+          "access": "7 days"
+        },
+        {
+          "name": "St. Moritz",
+          "region": "international",
+          "access": "7 days"
+        },
+        {
+          "name": "Zermatt Matterhorn",
+          "region": "international",
+          "access": "7 days"
+        },
+        {
+          "name": "Kitzbühel",
+          "region": "international",
+          "access": "7 days"
+        },
+        {
+          "name": "Chamonix Mont-Blanc",
+          "region": "international",
+          "access": "7 days"
+        },
+        {
+          "name": "Megève",
+          "region": "international",
+          "access": "7 days"
+        },
+        {
+          "name": "Ischgl",
+          "region": "international",
+          "access": "7 days"
+        },
+        {
+          "name": "Dolomiti Superski",
+          "region": "international",
+          "access": "7 days"
+        },
+        {
+          "name": "Grandvalira",
+          "region": "international",
+          "access": "7 days"
+        },
+        {
+          "name": "Niseko United",
+          "region": "international",
+          "access": "7 days"
+        },
+        {
+          "name": "Arai Mountain",
+          "region": "international",
+          "access": "7 days"
+        },
+        {
+          "name": "Nekoma Mountain",
+          "region": "international",
+          "access": "7 days"
+        },
+        {
+          "name": "Zao Onsen",
+          "region": "international",
+          "access": "7 days"
+        },
+        {
+          "name": "Mt.T",
+          "region": "international",
+          "access": "7 days"
+        },
+        {
+          "name": "APPI",
+          "region": "international",
+          "access": "7 days"
+        },
+        {
+          "name": "Madarao",
+          "region": "international",
+          "access": "7 days"
+        },
+        {
+          "name": "Myoko Suginohara",
+          "region": "international",
+          "access": "7 days"
+        },
+        {
+          "name": "Shiga Kogen",
+          "region": "international",
+          "access": "7 days"
+        },
+        {
+          "name": "Furano",
+          "region": "international",
+          "access": "7 days"
+        },
+        {
+          "name": "Mona Yongpyong",
+          "region": "international",
+          "access": "7 days"
+        },
+        {
+          "name": "Lake Songhua",
+          "region": "international",
+          "access": "7 days"
+        },
+        {
+          "name": "Beidahu",
+          "region": "international",
+          "access": "7 days"
+        },
+        {
+          "name": "Yunding Snow Park",
+          "region": "international",
+          "access": "7 days"
+        },
+        {
+          "name": "Thredbo",
+          "region": "international",
+          "access": "7 days"
+        },
+        {
+          "name": "Mt Buller",
+          "region": "international",
+          "access": "7 days"
+        },
+        {
+          "name": "Coronet Peak, The Remarkables and Mt Hutt",
+          "region": "international",
+          "access": "7 days"
+        },
+        {
+          "name": "Valle Nevado",
+          "region": "international",
+          "access": "7 days"
+        }
+      ],
+      "resortsSourceURL": "https://www.ikonpass.com/en/destinations",
+      "resortsVerifiedOn": "2026-10-29"
+    },
+    {
+      "slug": "indy",
+      "name": "Indy Pass",
+      "operator": "Indy Pass",
+      "season": "2026-27",
+      "currency": "USD",
+      "status": "sold-out",
+      "homepage": "https://www.indyskipass.com/",
+      "buyURL": "https://estore.indyskipass.com/products/waitlist-signup",
+      "timeZone": "America/Denver",
+      "salesEnd": null,
+      "onSaleAt": "2026-04-03T10:00:00-06:00",
+      "announcedPromo": null,
+      "tiers": [],
+      "notes": [
+        "The public sale on 3 April 2026 sold out in 37 minutes. A waitlist window ran 1 to 8 September 2026.",
+        "Supply, not price, is the constraint; the alert that matters is the on-sale moment.",
+        "Indy covers 200+ independent resorts; see indyskipass.com for the list."
+      ],
+      "resorts": []
+    },
+    {
+      "slug": "mountain-collective",
+      "name": "Mountain Collective",
+      "operator": "Mountain Collective",
+      "season": "2026-27",
+      "currency": "USD",
+      "status": "on-sale",
+      "homepage": "https://mountaincollective.com/",
+      "buyURL": "https://store.mountaincollective.com/ecomm/shop/merchandise/12583794/en-us?productsupercategoryid=17",
+      "timeZone": "America/Denver",
+      "salesEnd": null,
+      "onSaleAt": null,
+      "announcedPromo": null,
+      "tiers": [
+        {
+          "label": "Current price",
+          "priceCents": 72900,
+          "validFrom": null,
+          "validUntil": null,
+          "sourceURL": "https://mountaincollective.com/",
+          "verifiedOn": "2026-10-29"
+        }
+      ],
+      "notes": [
+        "2 days at each of 27 destinations, extra days 50% off. Price read from mountaincollective.com on Oct 29, 2026.",
+        "A price increase around Nov 17 is mentioned on the pass's social media but not on the site, so no deadline is set until the site confirms it."
+      ],
+      "resorts": [
+        {
+          "name": "Aspen Snowmass",
+          "region": "colorado-rockies",
+          "access": "2 days"
+        },
+        {
+          "name": "Alta",
+          "region": "utah-wasatch",
+          "access": "2 days"
+        },
+        {
+          "name": "Snowbird",
+          "region": "utah-wasatch",
+          "access": "2 days"
+        },
+        {
+          "name": "Snowbasin",
+          "region": "utah-wasatch",
+          "access": "2 days"
+        },
+        {
+          "name": "Sugar Bowl",
+          "region": "lake-tahoe",
+          "access": "2 days"
+        },
+        {
+          "name": "Big Sky",
+          "region": "northern-rockies",
+          "access": "2 days"
+        },
+        {
+          "name": "Grand Targhee",
+          "region": "northern-rockies",
+          "access": "2 days"
+        },
+        {
+          "name": "Jackson Hole",
+          "region": "northern-rockies",
+          "access": "2 days"
+        },
+        {
+          "name": "Sun Valley",
+          "region": "northern-rockies",
+          "access": "2 days"
+        },
+        {
+          "name": "Taos Ski Valley",
+          "region": "southwest",
+          "access": "2 days"
+        },
+        {
+          "name": "Sugarloaf",
+          "region": "new-england",
+          "access": "2 days"
+        },
+        {
+          "name": "Sunday River",
+          "region": "new-england",
+          "access": "2 days"
+        },
+        {
+          "name": "Whiteface",
+          "region": "mid-atlantic",
+          "access": "2 days"
+        },
+        {
+          "name": "Banff Sunshine",
+          "region": "canada-west",
+          "access": "2 days"
+        },
+        {
+          "name": "Lake Louise",
+          "region": "canada-west",
+          "access": "2 days"
+        },
+        {
+          "name": "Marmot Basin",
+          "region": "canada-west",
+          "access": "2 days"
+        },
+        {
+          "name": "Panorama",
+          "region": "canada-west",
+          "access": "2 days"
+        },
+        {
+          "name": "Revelstoke",
+          "region": "canada-west",
+          "access": "2 days"
+        },
+        {
+          "name": "Sun Peaks",
+          "region": "canada-west",
+          "access": "2 days"
+        },
+        {
+          "name": "Bromont",
+          "region": "canada-east",
+          "access": "2 days"
+        },
+        {
+          "name": "Le Massif de Charlevoix",
+          "region": "canada-east",
+          "access": "2 days"
+        },
+        {
+          "name": "Niseko United",
+          "region": "international",
+          "access": "2 days"
+        },
+        {
+          "name": "Chamonix",
+          "region": "international",
+          "access": "2 days"
+        },
+        {
+          "name": "Megève",
+          "region": "international",
+          "access": "2 days"
+        },
+        {
+          "name": "Mt Buller",
+          "region": "international",
+          "access": "2 days"
+        },
+        {
+          "name": "Coronet Peak and The Remarkables",
+          "region": "international",
+          "access": "2 days"
+        },
+        {
+          "name": "Valle Nevado",
+          "region": "international",
+          "access": "2 days"
+        }
+      ],
+      "resortsSourceURL": "https://mountaincollective.com/",
+      "resortsVerifiedOn": "2026-10-29"
+    }
+  ],
+  "deals": [
+    {
+      "id": "evo:sample-1",
+      "retailer": "evo",
+      "brand": "Flylow",
+      "name": "Quantum Pro Jacket - Men's",
+      "category": "Shell jackets",
+      "url": "https://www.evo.com/",
+      "listPriceCents": 45000,
+      "priceCents": 26999,
+      "lowest90dCents": 29999,
+      "observedAt": "2026-10-29T08:00:00Z"
+    },
+    {
+      "id": "rei:sample-1",
+      "retailer": "rei",
+      "brand": "Black Diamond",
+      "name": "Helio Carbon 95 Skis",
+      "category": "Skis",
+      "url": "https://www.rei.com/",
+      "listPriceCents": 89995,
+      "priceCents": 62996,
+      "lowest90dCents": null,
+      "observedAt": "2026-10-29T08:00:00Z"
+    },
+    {
+      "id": "backcountry:sample-1",
+      "retailer": "backcountry",
+      "brand": "Smith",
+      "name": "4D MAG Goggles",
+      "category": "Goggles",
+      "url": "https://www.backcountry.com/",
+      "listPriceCents": 32000,
+      "priceCents": 28800,
+      "lowest90dCents": 25600,
+      "observedAt": "2026-10-29T08:00:00Z"
+    }
+  ],
+  "regions": [
+    {
+      "slug": "colorado-rockies",
+      "name": "Colorado Rockies",
+      "timeZone": "America/Denver"
+    },
+    {
+      "slug": "utah-wasatch",
+      "name": "Utah Wasatch",
+      "timeZone": "America/Denver"
+    },
+    {
+      "slug": "lake-tahoe",
+      "name": "Lake Tahoe",
+      "timeZone": "America/Los_Angeles"
+    },
+    {
+      "slug": "california-south",
+      "name": "Southern California and Eastern Sierra",
+      "timeZone": "America/Los_Angeles"
+    },
+    {
+      "slug": "pacific-northwest",
+      "name": "Pacific Northwest",
+      "timeZone": "America/Los_Angeles"
+    },
+    {
+      "slug": "northern-rockies",
+      "name": "Montana, Wyoming, Idaho and Alaska",
+      "timeZone": "America/Denver"
+    },
+    {
+      "slug": "southwest",
+      "name": "New Mexico",
+      "timeZone": "America/Denver"
+    },
+    {
+      "slug": "new-england",
+      "name": "New England",
+      "timeZone": "America/New_York"
+    },
+    {
+      "slug": "mid-atlantic",
+      "name": "New York, Pennsylvania and West Virginia",
+      "timeZone": "America/New_York"
+    },
+    {
+      "slug": "midwest",
+      "name": "Midwest",
+      "timeZone": "America/Chicago"
+    },
+    {
+      "slug": "canada-west",
+      "name": "Western Canada",
+      "timeZone": "America/Vancouver"
+    },
+    {
+      "slug": "canada-east",
+      "name": "Eastern Canada",
+      "timeZone": "America/Toronto"
+    },
+    {
+      "slug": "international",
+      "name": "Outside North America",
+      "timeZone": "UTC"
+    }
+  ],
+  "resortDeals": []
+}
