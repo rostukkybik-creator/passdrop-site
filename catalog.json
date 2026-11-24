@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "updatedAt": "2026-10-30",
+  "version": 5,
+  "updatedAt": "2026-11-24",
   "passes": [
     {
       "slug": "epic",
@@ -39,6 +39,14 @@
           "validUntil": "2026-11-15",
           "sourceURL": "https://www.epicorikon.com/news/epic-pass-prices-increasing-october-2026",
           "verifiedOn": "2026-10-29"
+        },
+        {
+          "label": "Final price",
+          "priceCents": 124500,
+          "validFrom": "2026-11-16",
+          "validUntil": "2026-12-06",
+          "sourceURL": "https://news.vailresorts.com/2026-11-16-How-to-Save-on-Your-Ski-Season-Before-Epic-Passes-Go-Off-Sale-After-December-6",
+          "verifiedOn": "2026-11-24"
         }
       ],
       "notes": [
